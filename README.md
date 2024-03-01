@@ -2,10 +2,13 @@
 
 Browse the web using Lynx - a text-based web browser. Lynx was first released 1992.
 
-[More about Lynx (Wikipedia)](https://en.wikipedia.org/wiki/Lynx)
+[Lynx web browser (Wikipedia)](https://en.wikipedia.org/wiki/Lynx_(web_browser))
 
-[Maintained https://lynx.invisible-island.net)](https://lynx.invisible-island.net/)
+[Maintained software: lynx.invisible-island.net](https://lynx.invisible-island.net/)
 
+---
+
+Lynx displaying wikipedia.org
 
 ![Wikipedia using Lynx ](images/screen-1.png)
 
